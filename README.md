@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 # Jaimito Fernandes
 ## Fecha: 22/22/2222
-=======
 # Juan Jose Guevara Alvarez
 ## Fecha: 21/02/2025
->>>>>>> 93ae08d0575bf7c6b77a37f5c1799be85bb6fb8b
 --- 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio excepturi, dolor ex blanditiis iste inventore, incidunt, possimus rem reprehenderit voluptas voluptates accusamus? Deleniti vero, culpa eaque dolore itaque minus inventore.
 Autem ducimus laudantium, eligendi accusamus officia nihil voluptas debitis iusto, non illo itaque numquam explicabo nostrum id magni labore porro fugiat quod. Commodi quisquam dignissimos illum at tempore sapiente corrupti!
@@ -16,3 +13,6 @@ Et, ad! Distinctio velit accusantium quis labore adipisci accusamus facilis ea, 
 Hic quis blanditiis facilis consequatur ipsa? Voluptatum distinctio cumque laboriosam nesciunt. Tempore consectetur distinctio praesentium eius inventore omnis incidunt commodi, sunt impedit quae enim consequatur porro modi harum, architecto aliquid?
 Id officiis eaque sapiente quisquam itaque incidunt, nesciunt veritatis natus animi alias. A sequi facilis deserunt consectetur excepturi? Exercitationem consequuntur inventore ducimus odit, minus tenetur porro nemo temporibus voluptas enim?
 Eaque optio cumque laudantium corporis assumenda, doloribus ipsam quas vero porro quo sapiente non nisi ipsum voluptates, repudiandae, nobis eveniet odit commodi rem dignissimos deserunt minus suscipit. Aspernatur, consequuntur! Nobis!
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
